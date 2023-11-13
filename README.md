@@ -1,3 +1,5 @@
+# 修改icloud.com 为 icloud.com.cn
+--------------------------------------
 # Launchpad for iCloud
 
 适用于 Chrome 浏览器，快速登录 iCloud 应用的启动器。[点此下载](https://chrome.google.com/webstore/detail/dfngkocjobhcdlknaffekkiafkboehkn)
