@@ -1,4 +1,5 @@
 # 修改icloud.com 为 icloud.com.cn
+test ok
 --------------------------------------
 # Launchpad for iCloud
 
